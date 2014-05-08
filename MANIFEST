@@ -1,0 +1,5 @@
+Makefile.PL
+MANIFEST
+README
+t/File-BufferedInput.t
+lib/File/BufferedInput.pm
